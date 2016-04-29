@@ -4,7 +4,7 @@ This is the glorified repository involving the amazing products of the combinati
 
 In this truly astonishing repo, you shall find many great codes, both those in progress and those already great.
 
-There is not any documentation here, although it may pop up somewhere else.
+There is not any documentation in this README, however you can find whatever documentation and history available in our [wiki](github.com/RoboBears5611/RoboBears_2016-17/wiki)
 
 
 # List of teams through the years:
