@@ -11,7 +11,7 @@ There is not any documentation in this README, however you can find whatever doc
 
 ### 2016-17:
 
-Programmer:  Lucas, Peter, and the part-timer Jered who hasn't been here enough to know this exsists.
+Programmer:  Lucas, Peter, and the part-timer Jared who hasn't been here enough to know this exsists.
 
 Builders:  Noah, Joel, Andrea, Devin (tenatively)
 
